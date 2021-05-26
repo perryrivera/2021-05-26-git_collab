@@ -7,4 +7,9 @@ more stuff
 - `git branch -a`: list all branches
 - `git switch <NAME>`: switch to <NAME>
 - `git checkout <NAME>`: "older" way to switch branches
+- `git switch -c`
 	-
+more stuff
+
+even more stuff
+
