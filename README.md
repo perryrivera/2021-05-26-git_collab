@@ -1,4 +1,4 @@
-# 2021-05-26-git_collab
+# 2021-05-26-git_collab: Git Collaboration
 2021-05-26-git_collab
 more stuff
 
@@ -13,3 +13,9 @@ more stuff
 
 even more stuff
 
+## Pull Requests
+- Also see branch delete above
+
+## Conflicts
+
+Conflicts can happen and you will know
