@@ -18,4 +18,4 @@ even more stuff
 
 ## Conflicts
 
-Conflicts can happen and you will know
+You won't know it's going to happen until it does...
